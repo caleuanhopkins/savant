@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"combo",
+				"combonum"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 1831,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/assets/webdev/www/book/Ch 05/kickstart/admin/index.php",
+		"/Volumes/assets/webdev/www/book/5/kickstart/admin/index.php",
+		"/Volumes/assets/webdev/www/book/CH 04/kickstart/admin/posts.php",
+		"/Volumes/assets/webdev/www/book/4/kickstart/includes/admin.php",
+		"/Volumes/assets/webdev/www/book/5/kickstart/includes/login.php",
+		"/Volumes/assets/webdev/www/book/Ch 05/kickstart/login.php",
+		"/Volumes/assets/webdev/www/book/4/kickstart/includes/posts.php",
+		"/Volumes/assets/webdev/www/book/CH 04/kickstart/frontend/comments.php",
+		"/Volumes/assets/webdev/www/book/CH 04/kickstart/index.php",
+		"/Volumes/assets/webdev/www/book/4/kickstart/index.php",
+		"/Volumes/assets/webdev/www/book/4/kickstart/includes/login.php",
+		"/Volumes/assets/webdev/www/book/CH 04/kickstart/login.php",
+		"/Volumes/assets/webdev/www/book/4/kickstart/login.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/admin/posts.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/admin/index.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/admin/admin.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/admin/comments.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/login.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/includes/admin.php",
+		"/Volumes/assets/webdev/www/book/3/kickstart/index.php",
+		"/Volumes/assets/webdev/www/book/3/kickstart/includes/database.php",
+		"/Volumes/assets/webdev/www/book/3/kickstart/includes/admin.php",
+		"/Volumes/assets/webdev/www/book/3/kickstart/includes/posts.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/frontend/posts.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/index.php",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/includes/login.php",
+		"/Users/Callum/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Volumes/assets/webdev/www/book/Ch 03/kickstart/frontend/comments.php",
+		"/Volumes/assets/webdev/www/ceh_hybrid/frontend/posts.php",
+		"/Volumes/assets/webdev/www/ceh_hybrid/admin/posts.php",
+		"/Volumes/assets/Dropbox/JSPHP1/5 Code/Ch 03/kickstart/index.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/pages/admin/pos_shopping_cart.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/pages/admin/pos_product.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/apps/browse.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/apps/pos.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/apps/misc_config.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/exec/do_pos_basket.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml/pages/admin/pos.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www/inc/InsanityDeals.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www/views/deals/landing.phtml",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www/pages/insanity.php",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www/inc/Combos.php",
+		"/Volumes/assets/webdev/www/leanlabs/hubspot/leanlabs/css/main.css",
+		"/Volumes/assets/webdev/www/leanlabs/hubspot/leanlabs/css/hubspot-final-2.css",
+		"/Volumes/assets/webdev/www/leanlabs/hubspot/leanlabs/css/hubspot-final.css",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www/views/combos/productCombo.phtml",
+		"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-ml",
+			"/Volumes/assets/webdev/www/leanlabs/mcc/mcc-www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"echo ",
+			"BASKET_AVL_ERROR",
+			"your cart was adjusted to",
+			"background-color:#b22f04;color:#eee100;",
+			"your cart was adjusted to",
+			"adjusted to",
+			"currently available",
+			"The quantity in your cart was ",
+			"of these currently available. The quantity in your cart was ",
+			"to 0",
+			".one-liner",
+			".nps",
+			".logo",
+			"home .how .lead",
+			"one-liner",
+			".one-liner",
+			"font-size:32px",
+			"and",
+			"font-size:32px;",
+			"one-liner",
+			"font-size: 2rem;",
+			"font-size: 32px;",
+			"$productComboViewFile",
+			"productCombo.phtml",
+			"<h1>Combo Deal Available!",
+			"<h1>Combo Deal Available!<span class",
+			"related-combo-deal",
+			"());",
+			"getDeals(",
+			"this->deals",
+			"insanity-deals-landing",
+			"Insanity"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "login.php",
+					"settings":
+					{
+						"buffer_size": 1831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1504,
+								1500
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}
