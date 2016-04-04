@@ -12,7 +12,7 @@ class Database{
 		$this->dbserver = 'localhost';
 		$this->username = 'root';
 		$this->database = 'kickstart';
-		$this->password = 'i8vfbxdb';
+		$this->password = 'root';
 		$this->db = new PDO("mysql:host=".$this->dbserver.";dbname=".$this->database, $this->username, $this->password);
 		$this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	}
