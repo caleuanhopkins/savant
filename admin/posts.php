@@ -65,7 +65,7 @@
 				$format[] = ':title'; 
 			} 
 			if(!empty($post['fimg'])){
-				$array['title'] = $post['fimg'];
+				$array['fimg'] = $post['fimg'];
 				$format[] = ':fimg'; 
 			}
 			$array['date'] = time();

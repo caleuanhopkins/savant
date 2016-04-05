@@ -16,7 +16,7 @@
 				$error = 'You have been logged out. Please login again.';
 				require_once('admin/templates/loginform.php');
 			}else if(!empty($_SESSION['kickstart_login']) && $_SESSION['kickstart_login'] = true){
-				header('Location: http://'.$_SERVER['SERVER_NAME'].'/admin/index.php?error=123');
+				header('Location: http://'.$_SERVER['SERVER_NAME'].'/admin/index.php?error=already%20logged%20in');
 				exit();
 			}else{
 				if($_SERVER['REQUEST_METHOD'] === 'POST'){
